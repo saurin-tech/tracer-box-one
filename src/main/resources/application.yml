@@ -1,0 +1,3 @@
+server:
+  port: 8997
+restURL: "http://tracer-box-two.default:8998/decision"
